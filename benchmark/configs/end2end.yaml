@@ -3,8 +3,6 @@ end2end_eval:
     text_block:
       metric:
       - Edit_dist
-      - BLEU
-      - METEOR
     display_formula:
       metric:
       - Edit_dist
