@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OmniDocBench benchmark artifacts
+benchmark/OmniDocBench/
+benchmark/data/
+benchmark/predictions/
+benchmark/smoke_out/
+benchmark/.venv-mlx/
+benchmark/.venv-sdk/
+
+.DS_Store
