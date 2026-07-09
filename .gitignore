@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# OmniDocBench benchmark artifacts
+benchmark/OmniDocBench/
+benchmark/data/
+benchmark/predictions/
+benchmark/smoke_out/
+benchmark/.venv-mlx/
+benchmark/.venv-sdk/
